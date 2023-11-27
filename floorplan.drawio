@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T18:29:20.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BDMKmBE_1QfKyS7u6LdV" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-27T18:29:33.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wS0Cdgl93g9Pj3yIsILj" version="22.1.4" type="github" pages="2">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -889,7 +889,7 @@
           <mxGeometry x="140" y="606" width="219" height="86" as="geometry" />
         </mxCell>
         <mxCell id="dLeaGxL-0M-yPJVCzWEh-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairs;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="220.02" y="688" width="139.99" height="76" as="geometry" />
+          <mxGeometry x="240.03" y="688" width="119.98" height="76" as="geometry" />
         </mxCell>
         <mxCell id="dLeaGxL-0M-yPJVCzWEh-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="361.01" y="1114" width="80" height="85" as="geometry" />
