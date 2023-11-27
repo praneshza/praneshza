@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T18:39:19.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rV5gjWDuteVKaIPpAmqY" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-27T18:40:06.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lMe4MGK8MtWicO1c-Bqf" version="22.1.4" type="github" pages="2">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1009,7 +1009,7 @@
           <mxGeometry x="430" y="887" width="156" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dLeaGxL-0M-yPJVCzWEh-67" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="229.5" y="867" width="135" height="73" as="geometry" />
+          <mxGeometry x="225.5" y="910" width="135" height="73" as="geometry" />
         </mxCell>
         <mxCell id="dLeaGxL-0M-yPJVCzWEh-69" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-464.25" y="372.75" width="90" height="71.5" as="geometry" />
@@ -1145,6 +1145,9 @@
         </mxCell>
         <mxCell id="ZJI_Tr9L-ADof7SifKG1-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="-106.58" y="630" width="66.58" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJI_Tr9L-ADof7SifKG1-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-60.55000000000001" y="764" width="135" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
