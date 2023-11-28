@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T10:48:11.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="86VonwBRdYlE3hEishTC" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-28T10:48:43.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ajI1s3netQAKWiWIbshi" version="22.1.4" type="github" pages="2">
   <diagram id="TfJ3RopJOZgkZML33jeT" name="Ground floor">
     <mxGraphModel dx="2750" dy="2774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
           <mxGeometry x="-954.87" y="-681.3699999999999" width="177.5" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="ZJI_Tr9L-ADof7SifKG1-4" value="Ground Floor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;labelBackgroundColor=#0e0c0c;fontColor=#fdfcfc;" parent="1" vertex="1">
-          <mxGeometry x="-1491.75" y="-1169" width="256" height="100" as="geometry" />
+          <mxGeometry x="-1441.75" y="-1169" width="256" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZJI_Tr9L-ADof7SifKG1-5" value="TV Room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1279.75" y="-1401" width="117" height="30" as="geometry" />
