@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T10:22:54.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vbRVmGhT2Yo29ltEPCaY" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-28T10:45:07.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b4pkLCf6tdWF6uwaSZmi" version="22.1.4" type="github" pages="2">
   <diagram id="TfJ3RopJOZgkZML33jeT" name="Ground floor">
-    <mxGraphModel dx="3200" dy="3020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2750" dy="2774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
         <mxCell id="afC8MgPaFyeKHxOdlVeM-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;5m&lt;/span&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-619.5" y="-1426.75" width="334" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="afC8MgPaFyeKHxOdlVeM-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;3m&lt;/span&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="afC8MgPaFyeKHxOdlVeM-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;2m&lt;/span&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-1509.31" y="-1710.26" width="242.35" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="afC8MgPaFyeKHxOdlVeM-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;5m&lt;/span&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
@@ -289,10 +289,10 @@
         <mxCell id="iR2yha3exfRLZxDjQRqh-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;2m&lt;/span&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="-1852" width="221.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-1" value="Store Room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-1" value="Store Room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1353.87" y="-1720" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="1">
+        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" parent="1" vertex="1">
           <mxGeometry x="-1260" y="-1640" width="77.25" height="55" as="geometry" />
         </mxCell>
       </root>
