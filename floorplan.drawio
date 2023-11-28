@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T08:42:37.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8nJLnp0NiauLbjF7cDi0" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-28T08:42:44.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XBok89QbylQkWm7UQRYh" version="22.1.4" type="github" pages="2">
   <diagram id="TfJ3RopJOZgkZML33jeT" name="Ground floor">
     <mxGraphModel dx="3200" dy="3020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
         <mxCell id="iR2yha3exfRLZxDjQRqh-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;" parent="1" vertex="1">
           <mxGeometry x="-1390" y="-1908" width="71.25" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-1" value="Maid Room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Dmay6ziZ0pWMV5cVhSrG-1" value="Guest Bedroom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1412.87" y="-1720" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dmay6ziZ0pWMV5cVhSrG-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="1">
