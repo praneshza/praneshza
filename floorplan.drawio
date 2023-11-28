@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T08:23:32.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JcJFsGee0r-JVXLbJI3F" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-28T08:25:34.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7HGvifXCzY4cN8EAuPD7" version="22.1.4" type="github" pages="2">
   <diagram id="TfJ3RopJOZgkZML33jeT" name="Ground floor">
     <mxGraphModel dx="2750" dy="2774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="afC8MgPaFyeKHxOdlVeM-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;5m&lt;/font&gt;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-1158.75" y="-397" width="384" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="afC8MgPaFyeKHxOdlVeM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;4m&lt;/font&gt;" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;rotation=90;" parent="1" vertex="1">
+        <mxCell id="afC8MgPaFyeKHxOdlVeM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;4,5m&lt;/font&gt;" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-1177.12" y="-1734.37" width="40" height="383.75" as="geometry" />
         </mxCell>
         <mxCell id="59hUYJicJnO3x91iuMTW-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
