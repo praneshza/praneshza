@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:15:37.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rQhe_90y4O-Yajbi7zW4" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:18:46.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ypBv1JKEkrtXJnBhLeoN" version="22.1.18" type="github" pages="3">
   <diagram name="repeatable" id="tOD3NgLaMVKUUyJ2wG2F">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OIVm5OVi0m1_Ot8MUhQe" name="Page-3">
-    <mxGraphModel dx="1050" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,6 +290,63 @@
         </mxCell>
         <mxCell id="dkOFV3kOTxjJ75KARW3W-53" value="SageMaker Experiments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="590" width="760" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="620.5" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="620" width="289" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-58" target="dkOFV3kOTxjJ75KARW3W-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-58" value="Data Vaildation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-60" target="dkOFV3kOTxjJ75KARW3W-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-60" value="Data Preparation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-62" target="dkOFV3kOTxjJ75KARW3W-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-62" value="Model Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-64" target="dkOFV3kOTxjJ75KARW3W-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-64" value="Model Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-65" value="Model Validation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-66" value="SageMaker Data Wrangler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="705" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-67" value="SageMaker Experiments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="700" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-68" target="dkOFV3kOTxjJ75KARW3W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-68" target="dkOFV3kOTxjJ75KARW3W-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="590" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-69" value="AWS S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-70" value="Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="610" width="119" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
