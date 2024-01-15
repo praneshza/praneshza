@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T16:53:30.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nZGkQNeM43AqPWl6Wsuk" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:02:22.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1_7jIpxhfkRwAI80f4QR" version="22.1.18" type="github" pages="3">
   <diagram name="repeatable" id="tOD3NgLaMVKUUyJ2wG2F">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,10 +128,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OIVm5OVi0m1_Ot8MUhQe" name="Page-3">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dkOFV3kOTxjJ75KARW3W-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="760" height="170" as="geometry" />
         </mxCell>
@@ -162,14 +167,78 @@
         <mxCell id="dkOFV3kOTxjJ75KARW3W-7" value="Model Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="85" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-8" target="dkOFV3kOTxjJ75KARW3W-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dkOFV3kOTxjJ75KARW3W-8" value="Model Validation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dkOFV3kOTxjJ75KARW3W-15" value="Model Registry &amp;amp; Metadata&lt;br&gt;SageMaker Model Registry" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-15" target="dkOFV3kOTxjJ75KARW3W-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="190" />
+              <mxPoint x="297" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-15" value="Feature Store&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;SageMaker Feature Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="232" y="230" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dkOFV3kOTxjJ75KARW3W-19" value="Feature Store&lt;br&gt;SageMaker Feature Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-19" target="dkOFV3kOTxjJ75KARW3W-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="220" />
+              <mxPoint x="440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-19" value="Model Registry &amp;amp; Metadata&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;SageMaker Model Registry" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="432" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-21" target="dkOFV3kOTxjJ75KARW3W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-21" value="Model Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-100" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-24" value="Source Code&amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="901" y="68" width="119" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-26" value="CI\CD Azure Devops&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-24" target="dkOFV3kOTxjJ75KARW3W-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-26" target="dkOFV3kOTxjJ75KARW3W-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1261" y="300" as="targetPoint" />
+            <mxPoint x="1239" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-29" value="Pipeline Run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-33" value="Trained Model" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="222.5" width="119" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkOFV3kOTxjJ75KARW3W-34" target="dkOFV3kOTxjJ75KARW3W-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="220" />
+              <mxPoint x="250" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkOFV3kOTxjJ75KARW3W-34" value="Container Registry&lt;br&gt;AWS Elastic Container Registry" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
